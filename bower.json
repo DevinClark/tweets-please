@@ -1,0 +1,10 @@
+{
+  "name": "tweets-please",
+  "version": "1.0.0",
+  "main": "index.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
